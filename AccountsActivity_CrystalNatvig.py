@@ -1,6 +1,3 @@
-Learn more or give us feedback
-
-
 def test_activity_zero():
     moviequote = '... that some birds aren't meant to be caged.'
     print(moviequote)
